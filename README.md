@@ -3,5 +3,5 @@ Repository containing various programming exercises completed from varying sourc
 
 
 ## Contents
--1. Converting roman numerals to integers (Roman Numerals to Integers)[https://github.com/eemeresiev/Programming-exercises/blob/main/Roman%20numeral%20to%20Integer.py]
+- 1. Converting roman numerals to integers [Roman Numerals to Integers](https://github.com/eemeresiev/Programming-exercises/blob/main/Roman%20numeral%20to%20Integer.py)
 _Tools: python
